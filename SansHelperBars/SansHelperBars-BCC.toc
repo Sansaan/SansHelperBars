@@ -1,0 +1,12 @@
+## Interface: 20504
+## Title: <|cffEE160BSan's|r |cffFFFC25Helper Bars|r>
+## Author: Floraline, TBCC/Wrath updates by Sansaan
+## Notes: Add some bars for casting of totems/traps, with timers showing the remaining life time of the objects
+## Version: 3.0.0
+## OptionalDeps: ButtonFacade
+## Dependencies:
+## SavedVariables: 
+## SavedVariablesPerCharacter: SANSHELPERBARS_OPTIONS_TOTEM
+
+FloLib.xml
+SansHelperBars.xml
